@@ -6,3 +6,5 @@ Here I documented my journey of building a solid foundation in basics of JAVA pr
 2. Type conversion
 3. Type casting
 4. Type promotion
+
+# This repository is ongoing.
