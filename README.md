@@ -7,5 +7,7 @@ Here I documented my journey of building a solid foundation in basics of JAVA pr
 3. Type casting
 4. Type promotion
 5. Operators
+6. Conditional Statements
+7. Ternary Operator
 
 # This repository is ongoing.
