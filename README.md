@@ -9,7 +9,7 @@ Here I documented my journey of building a solid foundation in basics of JAVA pr
 5. Operators
 6. Conditional Statements
 7. Ternary Operator
-8. Loop
+8. Loops
 9. Continue & Break Statemnt
 
 # This repository is ongoing.
