@@ -11,5 +11,6 @@ Here I documented my journey of building a solid foundation in basics of JAVA pr
 7. Ternary Operator
 8. Loops
 9. Continue & Break Statemnt
+10. Function & methods
 
 # This repository is ongoing.
