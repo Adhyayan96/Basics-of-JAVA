@@ -12,5 +12,6 @@ Here I documented my journey of building a solid foundation in basics of JAVA pr
 8. Loops
 9. Continue & Break Statemnt
 10. Function & methods
+11. Patterns Printing
 
 # This repository is ongoing.
