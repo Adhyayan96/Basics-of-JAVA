@@ -204,13 +204,6 @@ public class AdvancedPatterns {
     public static void pattern22(int n){
         for(int i =1; i<=n+n-1; i++){
             for(int j = 1; j<=n+n-1; j++){
-            //     int up = i-1;
-            //     int left = j-1;
-            //     int down = n+n-1-j;
-            //     int right = n+n-1-i;
-            //     System.out.print(n-(Math.min(Math.min(up,left),Math.min(down,right))));
-            // }
-            // System.out.println();
             int up = j-1;
             int left = i-1;
             int down = n+n-1-j;
