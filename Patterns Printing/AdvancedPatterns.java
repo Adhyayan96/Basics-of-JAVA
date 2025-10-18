@@ -202,6 +202,15 @@ public class AdvancedPatterns {
     }
 
     public static void pattern22(int n){
+        /*
+        4444444
+        4333334
+        4322234
+        4321234
+        4322234
+        4333334
+        4444444
+         */
         for(int i =1; i<=n+n-1; i++){
             for(int j = 1; j<=n+n-1; j++){
             int up = j-1;
