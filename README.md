@@ -14,4 +14,4 @@ Here I documented my journey of building a solid foundation in basics of JAVA pr
 10. Function & methods
 11. Patterns Printing
 
-# This repository is ongoing.
+# This repository is completed.
